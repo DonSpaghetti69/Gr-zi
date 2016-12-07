@@ -1,20 +1,19 @@
 body{
   display: flex;
 }
-
 .left{
   margin-top: 60px;
-  float: left;
-
+  margin-bottom: 50px;
+  flex-grow: 1;
+  flex-shrink: 1;
 }
 .middle{
-  height: auto;
   margin-top: 60px;
-  float: left;
-
+  margin-bottom: 50px;
 }
 .right{
   margin-top: 60px;
-  float: left;
-  
+  margin-bottom: 50px;
+  flex-grow: 1;
+  flex-shrink: 1;
 }

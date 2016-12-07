@@ -2,5 +2,7 @@ body{
   flex: auto;
 }
 .text-bubble{
-
+  width: 340px;
+  background-image: url(/images/contentTextBubble.png);
+  background-repeat: repeat-y;
 }

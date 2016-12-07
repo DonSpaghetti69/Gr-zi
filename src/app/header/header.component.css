@@ -106,40 +106,41 @@ body{
   right: 20px;
 }
 .dropdown-first-smalltext {
+  text-align: right;
   padding: 7px;
   font-size: 13pt;
   color: white;
 }
 #dropdown-chapters{
-  left: 32px;
+  left: 12px;
 }
 
 #dropdown-educational-plan {
-    left: 78px;
+    left: 60px;
 }
 
 #dropdown-achieved-competences {
-    left: 122px;
+    left: 108px;
 }
 
 #dropdown-profile {
-    right: 227px;
+    right: 213px;
 }
 
 #dropdown-school {
-    right: 180px;
+    right: 165px;
 }
 
 #dropdown-grade {
-    right: 132px;
+    right: 117px;
 }
 
 #dropdown-help {
-    right: 75px;
+    right: 60px;
 }
 
 #dropdown-logout {
-    right: 30px;
+    right: 12px;
 }
 
 #chapters{
