@@ -1,0 +1,20 @@
+body{
+  display: flex;
+}
+
+.left{
+  margin-top: 60px;
+  float: left;
+
+}
+.middle{
+  height: auto;
+  margin-top: 60px;
+  float: left;
+
+}
+.right{
+  margin-top: 60px;
+  float: left;
+  
+}
